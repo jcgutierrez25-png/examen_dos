@@ -18,7 +18,7 @@ background-color: rgb(87, 207, 243);
 border-color: blue;
 width: 700px;
 margin: auto;
-border-radius: 10px;
+border-radius: 50px;
 flex-direction: column;
 padding: 50px;
 
@@ -47,6 +47,16 @@ padding: 50px;
 .form2{
 
 margin-left: 80px;     
+
+
+}
+
+.boton{
+
+margin-left: 450px;
+width: 200px;
+height: 100px;
+color: blue;
 
 
 }
