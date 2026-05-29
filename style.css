@@ -1,0 +1,52 @@
+.escoger{
+
+background-color: rgb(81, 157, 255);
+width: 390px;
+margin-bottom: 100px;
+margin-left: 650px;
+margin-right: 650px;
+padding: 10px;
+
+
+
+
+}
+
+.fondo{
+
+background-color: rgb(87, 207, 243);
+border-color: blue;
+width: 700px;
+margin: auto;
+border-radius: 10px;
+flex-direction: column;
+padding: 50px;
+
+
+
+
+}
+
+.texto1{
+
+    color: blue;
+    margin-left: 40px;  
+   
+}
+.texto2{
+
+    color: blue;
+
+}
+.form1{
+
+    margin-left: 109px; 
+
+}
+
+.form2{
+
+margin-left: 80px;     
+
+
+}
